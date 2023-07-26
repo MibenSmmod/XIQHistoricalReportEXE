@@ -7,7 +7,7 @@ This is a compiled version of the Python script HistoricalClient_CsvToExcel.py.
 Download the EXE to your Windows machine and put the CSV file in the same folder and follow the prompts
 
 ### Option 2
-Run the EXE on a Mac utilizing an application called CrossOver: https://www.codeweavers.com/crossover
+Run the EXE on a Mac utilizing an application called CrossOver ($): https://www.codeweavers.com/crossover
 1) Download the EXE to your downloads folder
 2) Open CrossOver app
 3) Press:  Install - bottom left corner
@@ -22,13 +22,15 @@ Run the EXE on a Mac utilizing an application called CrossOver: https://www.code
     - Press:  DONE
 7) Press:  Install
 
-A application window will popup and run the script...
+An application window will popup and run the script...
+
 8) Press X to close the application window and CrossOver will complete the install
 9) Your new XIQ Client Report bottle is listed on the left column; it should be selected
 10) Press:  Open C: Drive
 11) Copy your EXE into the root of the C: drive of your bottle
 12) Rename the file to XIQ.exe for simplicity
 13) Copy your XIQ Report into the root of the C: drive and rename to XIQ.csv
+
 Both the EXE and CVS should be in the root of the C: drive in your XIQ Client Report Bottle
 
 14) Go back to CrossOver app > press:  Run Command
