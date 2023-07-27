@@ -1,6 +1,6 @@
-# HistoricalClient_csvtoexcel.py
+# XIQHistoricalreportEXE
 
-This is a compiled version of the Python script HistoricalClient_CsvToExcel.py.
+This is a compiled version of the Python script HistoricalClient_CsvToExcel.py: https://github.com/ExtremeNetworksSA/XIQ_Client_Report_CSV
 
 # Running an EXE to make this process more simple
 ### Option 1
